@@ -1,7 +1,6 @@
 # MPU6050 9-DoF Example Printout
 
 from mpu9250_i2c import *
-import time 
 
 time.sleep(1) # delay necessary to allow mpu9250 to settle
 
